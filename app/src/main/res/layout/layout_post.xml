@@ -35,7 +35,7 @@
                     android:id="@+id/txtPostName"
                     android:textColor="@color/colorBlack"
                     android:textStyle="bold"
-                    android:text="Habib Mhamadi"/>
+                    android:text="User User"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -69,7 +69,7 @@
             android:paddingLeft="8dp"
             android:paddingRight="8dp"
             android:paddingBottom="8dp"
-            android:text="sdkfljsdkfjklsdjflksd"/>
+            android:text="text text"/>
 
         <ImageView
             android:layout_width="match_parent"

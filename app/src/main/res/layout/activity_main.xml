@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="FindPho"
+        android:text="Blog App"
         android:textSize="32sp"
         android:gravity="center_horizontal"
         android:layout_centerInParent="true"
